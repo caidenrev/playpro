@@ -1,0 +1,326 @@
+<!-- top-advisors-area start -->
+    <!-- <div
+      class="top-advisors-area pd-top-120 pd-bottom-90 bg-cover"
+      style="background-image: url('assets/img/creator/bg2.png')"
+    >
+      <div class="container">
+        <div class="section-title">
+          <div class="row">
+            <div class="col-lg-6">
+              <h6 class="sub-title split_chars">Team & Advisors</h6>
+              <h2 class="title move-line-3d">Crypto Expart Advisors</h2>
+            </div>
+            <div class="col-lg-6 align-self-center mt-md-0 mt-4">
+              <div class="array-button slider-control-round text-lg-end">
+                <button class="array-prev-advisors">
+                  <i class="fa fa-angle-left"></i>
+                </button>
+                <button class="array-next-advisors">
+                  <i class="fa fa-angle-right"></i>
+                </button>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="swiper advisors-slider">
+          <div class="swiper-wrapper">
+            <div class="swiper-slide">
+              <div class="single-advisors-inner">
+                <div class="thumb text-center p-0">
+                  <img src="assets/img/team/1.png" alt="img" />
+                </div>
+                <div class="details">
+                  <h5 class="name">
+                    <a href="team-details.html">Alxender Pul</a>
+                  </h5>
+                  <span class="designation">CEO</span>
+                  <div class="social-list text-end">
+                    <a href="#"><i class="fab fa-facebook"></i></a>
+                    <a href="#"><i class="fab fa-twitter"></i></a>
+                    <a href="#"><i class="fab fa-linkedin"></i></a>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="swiper-slide">
+              <div class="single-advisors-inner">
+                <div class="thumb text-center p-0">
+                  <img src="assets/img/team/1.png" alt="img" />
+                </div>
+                <div class="details">
+                  <h5 class="name">
+                    <a href="team-details.html">Siddrat mat</a>
+                  </h5>
+                  <span class="designation">Developer</span>
+                  <div class="social-list text-end">
+                    <a href="#"><i class="fab fa-facebook"></i></a>
+                    <a href="#"><i class="fab fa-twitter"></i></a>
+                    <a href="#"><i class="fab fa-linkedin"></i></a>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="swiper-slide">
+              <div class="single-advisors-inner">
+                <div class="thumb text-center p-0">
+                  <img src="assets/img/team/2.png" alt="img" />
+                </div>
+                <div class="details">
+                  <h5 class="name">
+                    <a href="team-details.html">Robart Fine</a>
+                  </h5>
+                  <span class="designation">Co-Founder PlayPro</span>
+                  <div class="social-list text-end">
+                    <a href="#"><i class="fab fa-facebook"></i></a>
+                    <a href="#"><i class="fab fa-twitter"></i></a>
+                    <a href="#"><i class="fab fa-linkedin"></i></a>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="swiper-slide">
+              <div class="single-advisors-inner">
+                <div class="thumb text-center p-0">
+                  <img src="assets/img/team/3.png" alt="img" />
+                </div>
+                <div class="details">
+                  <h5 class="name"><a href="team-details.html">Jone Doe</a></h5>
+                  <span class="designation">CEO</span>
+                  <div class="social-list text-end">
+                    <a href="#"><i class="fab fa-facebook"></i></a>
+                    <a href="#"><i class="fab fa-twitter"></i></a>
+                    <a href="#"><i class="fab fa-linkedin"></i></a>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="swiper-slide">
+              <div class="single-advisors-inner">
+                <div class="thumb text-center p-0">
+                  <img src="assets/img/team/4.png" alt="img" />
+                </div>
+                <div class="details">
+                  <h5 class="name">
+                    <a href="team-details.html">Daniel vibe</a>
+                  </h5>
+                  <span class="designation">CEO</span>
+                  <div class="social-list text-end">
+                    <a href="#"><i class="fab fa-facebook"></i></a>
+                    <a href="#"><i class="fab fa-twitter"></i></a>
+                    <a href="#"><i class="fab fa-linkedin"></i></a>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div> -->
+    <!-- top-advisors-area end -->
+
+    <!-- platform area start -->
+    <!-- <div class="platform-area position-relative pd-top-120 pd-bottom-90">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-6 align-self-center">
+            <div class="about-content section-title mt-5 mt-xl-0 mb-lg-0 mb-5">
+              <h6 class="sub-title-2">
+                Gaming Platform
+                <span></span>
+                <span></span>
+                <span></span>
+                <span></span>
+              </h6>
+              <h2 class="title mb-4">
+                Follow as Crepto Across <span>Ownership</span> cases
+              </h2>
+              <div class="small-title-2 mb-4">
+                <img src="assets/img/about/2.png" alt="img" /> | Earn Great
+                Rewards <span class="color-base">( Friend )</span>
+              </div>
+              <div class="btn-box d-inline-block">
+                <a class="btn btn-main style-small" href="about.html">
+                  <span>
+                    <span>Explore More</span>
+                  </span>
+                </a>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-6 pe-xl-5">
+            <div class="single-platform-inner">
+              <img class="bg-image" src="assets/img/bg/2.png" alt="img" />
+              <div class="details-inner">
+                <a class="read-more text-end d-block" href="wallet.html">
+                  <svg
+                    xmlns="http://www.w3.org/2000/svg"
+                    xmlns:xlink="http://www.w3.org/1999/xlink"
+                    width="22px"
+                    height="22px"
+                  >
+                    <image
+                      x="0px"
+                      y="0px"
+                      width="22px"
+                      height="22px"
+                      xlink:href="data:img/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAWBAMAAAA2mnEIAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAGFBMVEX///9NTk3ExMSIiYj////h4eGmpqb///9/FIABAAAAB3RSTlMAHJNWza90vjA1FgAAAAFiS0dEAIgFHUgAAAAHdElNRQfoCB8EMzmirnqjAAAAbElEQVQY00XNwQmAMAyF4UcVz+IEIl1AEJygeNUNREq9iyXr29SmeaeP/5AAwDDxRvBW4rmevWTTwe5CCBfRgzJDFMVWbTZ3i+27i1OGOGUxZzHn4pyLc/79Z/hYM5q5Zj2iL2VeM1rNwFn1Aeb+IAGtAecIAAAAAElFTkSuQmCC"
+                    />
+                  </svg>
+                </a>
+                <div class="icon">
+                  <img src="assets/img/platform/1.png" alt="img" />
+                </div>
+                <a href="#" class="cat">
+                  <i class="fa fa-bookmark"></i>
+                  Developer
+                </a>
+                <h3 class="title">Crypto <span>Ownership</span></h3>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="row mt-5">
+          <div class="col-lg-4">
+            <div class="single-platform-inner style-2">
+              <img class="bg-image" src="assets/img/bg/1.png" alt="img" />
+              <div class="details-inner">
+                <a class="read-more text-end d-block" href="wallet.html">
+                  <svg
+                    xmlns="http://www.w3.org/2000/svg"
+                    xmlns:xlink="http://www.w3.org/1999/xlink"
+                    width="22px"
+                    height="22px"
+                  >
+                    <image
+                      x="0px"
+                      y="0px"
+                      width="22px"
+                      height="22px"
+                      xlink:href="data:img/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAWBAMAAAA2mnEIAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAGFBMVEX///9NTk3ExMSIiYj////h4eGmpqb///9/FIABAAAAB3RSTlMAHJNWza90vjA1FgAAAAFiS0dEAIgFHUgAAAAHdElNRQfoCB8EMzmirnqjAAAAbElEQVQY00XNwQmAMAyF4UcVz+IEIl1AEJygeNUNREq9iyXr29SmeaeP/5AAwDDxRvBW4rmevWTTwe5CCBfRgzJDFMVWbTZ3i+27i1OGOGUxZzHn4pyLc/79Z/hYM5q5Zj2iL2VeM1rNwFn1Aeb+IAGtAecIAAAAAElFTkSuQmCC"
+                    />
+                  </svg>
+                </a>
+                <div class="icon">
+                  <img src="assets/img/platform/2.png" alt="img" />
+                </div>
+                <a href="#" class="cat">
+                  <i class="fa fa-bookmark"></i>
+                  Developer
+                </a>
+                <h3 class="title">Crypto <span>Ownership</span></h3>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-4">
+            <div class="single-platform-inner style-2">
+              <img class="bg-image" src="assets/img/bg/1.png" alt="img" />
+              <div class="details-inner">
+                <a class="read-more text-end d-block" href="wallet.html">
+                  <svg
+                    xmlns="http://www.w3.org/2000/svg"
+                    xmlns:xlink="http://www.w3.org/1999/xlink"
+                    width="22px"
+                    height="22px"
+                  >
+                    <image
+                      x="0px"
+                      y="0px"
+                      width="22px"
+                      height="22px"
+                      xlink:href="data:img/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAWBAMAAAA2mnEIAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAGFBMVEX///9NTk3ExMSIiYj////h4eGmpqb///9/FIABAAAAB3RSTlMAHJNWza90vjA1FgAAAAFiS0dEAIgFHUgAAAAHdElNRQfoCB8EMzmirnqjAAAAbElEQVQY00XNwQmAMAyF4UcVz+IEIl1AEJygeNUNREq9iyXr29SmeaeP/5AAwDDxRvBW4rmevWTTwe5CCBfRgzJDFMVWbTZ3i+27i1OGOGUxZzHn4pyLc/79Z/hYM5q5Zj2iL2VeM1rNwFn1Aeb+IAGtAecIAAAAAElFTkSuQmCC"
+                    />
+                  </svg>
+                </a>
+                <div class="icon">
+                  <img src="assets/img/platform/2.png" alt="img" />
+                </div>
+                <a href="#" class="cat">
+                  <i class="fa fa-bookmark"></i>
+                  Developer
+                </a>
+                <h3 class="title">Crypto <span>Ownership</span></h3>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-4">
+            <div class="single-platform-inner style-2">
+              <img class="bg-image" src="assets/img/bg/1.png" alt="img" />
+              <div class="details-inner">
+                <a class="read-more text-end d-block" href="wallet.html">
+                  <svg
+                    xmlns="http://www.w3.org/2000/svg"
+                    xmlns:xlink="http://www.w3.org/1999/xlink"
+                    width="22px"
+                    height="22px"
+                  >
+                    <image
+                      x="0px"
+                      y="0px"
+                      width="22px"
+                      height="22px"
+                      xlink:href="data:img/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAWBAMAAAA2mnEIAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAGFBMVEX///9NTk3ExMSIiYj////h4eGmpqb///9/FIABAAAAB3RSTlMAHJNWza90vjA1FgAAAAFiS0dEAIgFHUgAAAAHdElNRQfoCB8EMzmirnqjAAAAbElEQVQY00XNwQmAMAyF4UcVz+IEIl1AEJygeNUNREq9iyXr29SmeaeP/5AAwDDxRvBW4rmevWTTwe5CCBfRgzJDFMVWbTZ3i+27i1OGOGUxZzHn4pyLc/79Z/hYM5q5Zj2iL2VeM1rNwFn1Aeb+IAGtAecIAAAAAElFTkSuQmCC"
+                    />
+                  </svg>
+                </a>
+                <div class="icon">
+                  <img src="assets/img/platform/3.png" alt="img" />
+                </div>
+                <a href="#" class="cat">
+                  <i class="fa fa-bookmark"></i>
+                  Developer
+                </a>
+                <h3 class="title">Crypto <span>Ownership</span></h3>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div> -->
+
+    <div class="instagram-slider-area position-relative">
+      <a class="instagram-btn" href="#">Instagram</a>
+      <div class="swiper instagram-slider">
+        <div class="swiper-wrapper">
+          <div class="swiper-slide">
+            <div class="thumb">
+              <img src="assets/img/instagram/1.png" alt="img" />
+            </div>
+          </div>
+          <div class="swiper-slide">
+            <div class="thumb">
+              <img src="assets/img/instagram/2.png" alt="img" />
+            </div>
+          </div>
+          <div class="swiper-slide">
+            <div class="thumb">
+              <img src="assets/img/instagram/3.png" alt="img" />
+            </div>
+          </div>
+          <div class="swiper-slide">
+            <div class="thumb">
+              <img src="assets/img/instagram/4.png" alt="img" />
+            </div>
+          </div>
+          <div class="swiper-slide">
+            <div class="thumb">
+              <img src="assets/img/instagram/5.png" alt="img" />
+            </div>
+          </div>
+          <div class="swiper-slide">
+            <div class="thumb">
+              <img src="assets/img/instagram/6.png" alt="img" />
+            </div>
+          </div>
+          <div class="swiper-slide">
+            <div class="thumb">
+              <img src="assets/img/instagram/1.png" alt="img" />
+            </div>
+          </div>
+          <div class="swiper-slide">
+            <div class="thumb">
+              <img src="assets/img/instagram/2.png" alt="img" />
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
